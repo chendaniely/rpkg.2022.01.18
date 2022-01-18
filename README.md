@@ -7,3 +7,6 @@
 
 - `git switch -c BRANCH_NAME`: create and "switch" you to the BRANCH_NAME
 - `git checkout -b BRANCH_NAME`: the "older" way you will see the `git switch` command
+
+- `git reset --hard COMMIT`: will move you to COMMIT
+
